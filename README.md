@@ -6,7 +6,7 @@ The Web Alarm Clock is a simple web application that allows users to set alarms 
 - Set multiple alarms with custom labels and times.
 - Simple and intuitive user interface.
 - Alarm notifications with sound and visual alerts.
-- Responsive design for desktop and mobile devices.
+- Responsive design for desktop and mobile devices also.
 
 ## Technologies Used
 - HTML: Markup language for structuring the web page.
